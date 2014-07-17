@@ -1,0 +1,21 @@
+.scrollup
+{
+    display: none;
+	z-index: 10;
+	position: fixed;
+	/*top: 0;
+	margin: 15px;
+	padding: 0;*/
+	bottom: 2em;
+    right: 15px;
+	width: 24px;
+	height: 24px;
+	cursor: pointer;
+	background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAZlBMVEUAAACEiY2SmJ2epKmjqq+lrLGor7SosLWpsbaqsbaqsbeqsbeqsbeqsbeqsbeqsbeqsbeqsbeqsbeqsbeqsbeqsbeqsbeqsbersrettLm6wMTDyc3O09bZ3d/q6+3x8vP5+fr8/f1nT312AAAAF3RSTlMAGiEnNEFPYGpxeoeUnqm1vdLk7vP4+0kZka8AAACySURBVHgBddDxboYgDATwAx36qVPBQZ3TMd7/JbcQSpDM359ccyVFIl+rJqeXXqLUvBOzUxEpS4VNIXnRnevSPNXcW1zLPYVNAMh7SyPQOGLXRcxKDMSOEL6I9Vgp2X0I/pOSGSYXhT+5TMPmoujgf3Gwf4fI7xQZrjpDcnLVQpHn4IeXD/SvvroI+xDA9HASyO3hiFCOKrZF1FWJVUjUrc20yMRk8/goUBLdrI3Rs+LnX+9DKZ4DVjilAAAAAElFTkSuQmCC") no-repeat;
+	opacity: 0.6;
+}
+
+.scrollup:hover
+{
+opacity: 1.0;
+}
